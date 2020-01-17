@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wallaceswayze0568/Learn%20DevOps/_apis/build/status/wswayze2020.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/wallaceswayze0568/Learn%20DevOps/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
